@@ -6,12 +6,12 @@ import javascript from "../assets/imatges/javascript.png";
 import reactImage from "../assets/imatges/react.png";
 import nestjs from "../assets/imatges/nestjs.svg";
 import typescript from "../assets/imatges/typescript.svg";
-import github from "../assets/imatges/github.png";
 import tailwind from "../assets/imatges/tailwind.png";
 import node from "../assets/imatges/node.png";
 import mongodb from "../assets/imatges/mongodb.svg";
 import mysql from "../assets/imatges/mysql.svg";
 import jest from "../assets/imatges/jest.svg";
+import styled from "../components/styled.svg";
 
 const Experience = () => {
   const techs = [
@@ -53,15 +53,15 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: nestjs,
-      title: "NestJS",
-      style: "shadow-red-400",
+      src: styled,
+      title: "Styled Components",
+      style: "shadow-pink-400",
     },
     {
       id: 8,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
+      src: nestjs,
+      title: "NestJS",
+      style: "shadow-red-400",
     },
     {
         id: 9,
@@ -87,6 +87,7 @@ const Experience = () => {
         title: "Jest",
         style: "shadow-red-400",
       },
+      
   ];
 
   return (
