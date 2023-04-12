@@ -1,8 +1,9 @@
 import React from "react";
-import placeholder from '../assets/portfolio/placeholder.png';
 import front from '../assets/projectes/front.png';
 import back from '../assets/projectes/back.png';
-import portfolioSergi from '../assets/projectes/portfolioSergi.png'
+import portfolioSergi from '../assets/projectes/portfolioSergi.png';
+import marketplace from '../assets/projectes/marketplace.png';
+import deathCode from '../assets/projectes/deathCode.png';
 
 const Portfolio = () => {
   const portfolios = [
@@ -23,15 +24,17 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: placeholder,
+      src: marketplace,
+      link:"https://github.com/SergiAlsina/marketplace"
     },
     {
       id: 5,
-      src: placeholder,
+      src:deathCode,
+      link:"https://github.com/Death-Code"
     },
     {
       id: 6,
-      src: placeholder,
+      src: '',
     },
   ];
 
