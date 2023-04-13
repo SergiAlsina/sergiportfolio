@@ -11,7 +11,7 @@ import node from "../assets/imatges/node.png";
 import mongodb from "../assets/imatges/mongodb.svg";
 import mysql from "../assets/imatges/mysql.svg";
 import jest from "../assets/imatges/jest.svg";
-import styled from "../components/styled.svg";
+import styled from "../assets/projectes/styled.svg";
 
 const Experience = () => {
   const techs = [

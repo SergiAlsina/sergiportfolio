@@ -14,24 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Como desarrollador web full stack, tengo experiencia en el desarrollo de aplicaciones web desde el principio hasta el final. Me siento cómodo trabajando tanto en el front-end como en el back-end de los sitios web, y tengo habilidades en una variedad de lenguajes de programación, incluyendo HTML, CSS, JavaScript, Typescript, Node.js y Nest.
+        <br />
+Soy capaz de trabajar en todos los aspectos del desarrollo web, desde la planificación y el diseño hasta la implementación y el mantenimiento. Tengo experiencia en manejar bases de datos, trabajar con servidores web y de aplicaciones, y conocimiento de herramientas de control de versiones y de integración continua.
+        <br />
+Me enorgullezco de ser un buen colaborador y trabajar bien en equipo. Tengo habilidades de liderazgo y he liderado proyectos con éxito, asegurándome de que se cumplan los plazos y de que el producto final cumpla con los requisitos del cliente. También me siento cómodo resolviendo problemas complejos y encontrando soluciones creativas para los desafíos técnicos que puedan surgir.
+        <br />
+En resumen, como desarrollador web full stack, estoy altamente capacitado y experimentado para llevar a cabo proyectos web completos y de alta calidad. Estoy comprometido con el aprendizaje y el crecimiento continuo para seguir mejorando mis habilidades y conocimientos en el campo del desarrollo web.
         </p>
 
         <br />
 
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
+        
       </div>
     </div>
   );
