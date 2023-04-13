@@ -22,7 +22,7 @@ const NavBar = () => {
     },
     {
       id: 4,
-      link: 'experiencia'
+      link: 'stack tecnológico'
     },
     {
       id:5,
